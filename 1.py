@@ -1,5 +1,5 @@
-a=int(input("Enter a number:"))
-b=int(input("enter another number:"))
-print("The value of :",a,"+",b,a+b)
-print("The value of :",a,"*",b,a*b)
-print("The value of :",a,"//",b,a//b)
+#a=int(input("Enter a number:"))
+#b=int(input("enter another number:"))
+
+for i in range(1,1000000000000000):
+    print("khuman is guy")
