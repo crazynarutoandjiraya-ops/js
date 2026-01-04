@@ -1,0 +1,6 @@
+a=int(input("Enter a number:"))
+b=int(input("enter another number:"))
+print ("my best friennd name is haddi.")
+print("he loves ronaldo and watches football as his main hobby")
+print("he is nice boyt likes to play football as well as he is very kind and loves to code Nowadays, but when i ask him to teach me coding he refuges every time.")
+#print("His favrorite no is",a+b,"")
